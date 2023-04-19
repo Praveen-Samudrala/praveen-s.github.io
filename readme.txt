@@ -1,5 +1,5 @@
 
-Website: praveen-samudrala.github.io
+Website: (https://praveen-samudrala.github.io)
 
 LICENSE:
 
@@ -63,8 +63,5 @@ Javascript Files:
  - MailtoUI (https://mailtoui.com/)
 
 -------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
 
 
